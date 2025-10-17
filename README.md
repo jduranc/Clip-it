@@ -7,7 +7,7 @@ Developer: Jose Duran
 
 ⸻
 
-1. Introduction
+## 1. Introduction
 
 Your privacy is important to us. This Privacy Policy explains how Clip-it handles user information.
 Our app does not collect, store, or share any personal data from users. We only use third-party services, such as Google Analytics and Google Ads (AdMob), which may collect limited information to provide app analytics and deliver ads.
@@ -16,7 +16,7 @@ By using Clip-it, you agree to this Privacy Policy.
 
 ⸻
 
-2. Information We Do Not Collect
+## 2. Information We Do Not Collect
 
 We do not:
 	•	Collect or store personal data such as your name, email, or location.
@@ -26,7 +26,7 @@ We do not:
 
 ⸻
 
-3. Third-Party Services
+## 3. Third-Party Services
 
 We use third-party SDKs to improve user experience and measure app performance:
 	•	Google Analytics for Firebase – used for anonymous usage statistics (e.g., screen views, device type).
@@ -40,21 +40,21 @@ We encourage you to review these policies to understand how these services handl
 
 ⸻
 
-4. Data Retention and Storage
+## 4. Data Retention and Storage
 
 Clip-it does not store or retain any user data on its servers.
 All analytics and advertising data are processed and stored by Google according to their own policies.
 
 ⸻
 
-5. Children’s Privacy
+## 5. Children’s Privacy
 
 Our app does not knowingly collect or store personal information from children under 13 (or under 16 in the EU).
 If you believe a child has provided personal data through one of our third-party providers, please contact Google to request removal under their privacy process.
 
 ⸻
 
-6. Data Protection Laws Compliance
+## 6. Data Protection Laws Compliance
 
 GDPR (European Union)
 
@@ -78,7 +78,7 @@ We follow equivalent data protection principles, ensuring no collection, retenti
 
 ⸻
 
-7. Your Privacy Choices
+## 7. Your Privacy Choices
 
 You can manage or opt out of personalized ads:
 	•	In your device settings under Privacy → Ads → Limit Ad Tracking (iOS).
@@ -88,21 +88,21 @@ If you disable ad personalization, you will still see ads, but they may be less 
 
 ⸻
 
-8. Security
+## 8. Security
 
 Since we do not handle personal data, we do not store or transmit sensitive information.
 All communication with Google’s services is encrypted (HTTPS).
 
 ⸻
 
-9. Changes to This Policy
+## 9. Changes to This Policy
 
 We may update this Privacy Policy periodically.
 Any updates will be posted within the app and/or on our website, with the revised date shown above.
 
 ⸻
 
-10. Contact
+## 10. Contact
 
 If you have questions about this Privacy Policy or your privacy rights, please contact:
 
