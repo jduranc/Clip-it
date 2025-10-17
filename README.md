@@ -92,6 +92,28 @@ If you disable ad personalization, you will still see ads, but they may be less 
 
 Since we do not handle personal data, we do not store or transmit sensitive information.
 All communication with Google’s services is encrypted (HTTPS).
+⸻
+## 🇫🇷 Addendum for Users in France
+
+### Compliance with French Law  
+We also comply with France's **Loi Informatique et Libertés** (French Data Protection Act) and the rules and guidance issued by the French Data Protection Authority (**CNIL**).  
+
+### Security & Encryption  
+While our app does **not store personal data**, all communication with third-party services (e.g. Google Analytics, AdMob) is transmitted over encrypted channels (TLS/HTTPS). We commit to using appropriate technical and organizational measures, including strong encryption where applicable, to safeguard user data in transit or processing.
+
+To the extent required under French law, we declare the use of encryption technology and comply with any local cryptographic regulatory requirements.
+
+### Data Breach & Notification  
+In the unlikely event of a breach involving personal data (even though we do not hold such data), we will follow applicable French and EU rules, including notifying the CNIL within 72 hours when required and, if applicable, affected users.
+
+### Cookies, Tracking & Consent  
+When offering services in France, we comply with local ePrivacy / electronic communications laws. If any identifiers, cookies, or trackers are used (e.g. for ad purposes), we ensure the French user is presented with a proper consent mechanism aligned with CNIL guidance.
+
+### Right to Lodge Complaints  
+French users may contact the CNIL (Commission Nationale de l’Informatique et des Libertés) to lodge a complaint about processing of their personal data. CNIL is the supervisory authority in France.
+
+### Enforcement & Liability  
+If our practices were found deficient under French or EU law, the CNIL may impose enforcement actions, corrective orders, or fines (up to €20 million or 4 % of global turnover). We commit to addressing any compliance concerns promptly.
 
 ⸻
 
