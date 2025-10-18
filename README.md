@@ -5,7 +5,7 @@ Clip-It makes copying and pasting powerful, secure, and effortless.
 
 Save anything you copy — text, links, or images — and access it anytime, anywhere.
 
-### ✅ Simple & intuitive
+#### ✅ Simple & intuitive
 Clip-It was designed to be effortless. Just copy — and it’s saved. Your clips are always ready when you need them.
 
 #### 🏷️ Organize with tags
