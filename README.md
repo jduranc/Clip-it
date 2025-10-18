@@ -15,27 +15,27 @@ Create custom tags to keep your clips tidy and easy to find. Filter by project, 
 ##### ☁️ Sync with iCloud
 All your clips are securely stored and available on every device. Copy on your Mac, paste on your iPhone, and vice versa — continuity that just works.
 
-### 🔒 Private & secure
+#### 🔒 Private & secure
 Your clips belong only to you. Everything stays encrypted and private, protected inside your iCloud account.
 
-### ⌨️ Always ready with the keyboard
+#### ⌨️ Always ready with the keyboard
 Paste your saved clips anywhere using the Clip-It Keyboard extension. Your texts, links, and memes are just one tap away in any app.
 
-### 🧭 Privacy-friendly links
+#### 🧭 Privacy-friendly links
 Clip-It automatically removes tracking information from links — keeping your data and browsing habits private.
 
-### 🚀 Boost your productivity
+#### 🚀 Boost your productivity
 Reuse common replies, templates, or snippets in seconds — stop typing the same thing twice.
 
-### 😂 Keep your favorite memes handy
+#### 😂 Keep your favorite memes handy
 Save and paste your favorite memes or images anywhere — from messages to social apps.
 
-### 📲 Easy to capture
+#### 📲 Easy to capture
 Create clips from within the app, the share sheet, or simply drag & drop content on iPad — Clip-It adapts to your workflow.
 
 With Clip-It, you’ll never lose information again — everything you copy is safely stored, organized, and instantly accessible.
 
-📜 Privacy Policy
+## 📜 Privacy Policy
 
 Effective Date: October 17, 2025
 App Name: Clip-it
@@ -43,7 +43,7 @@ Developer: Jose Duran
 
 ⸻
 
-## 1. Introduction
+### 1. Introduction
 
 Your privacy is important to us. This Privacy Policy explains how Clip-it handles user information.
 Our app does not collect, store, or share any personal data from users. We only use third-party services, such as Google Analytics and Google Ads (AdMob), which may collect limited information to provide app analytics and deliver ads.
@@ -52,7 +52,7 @@ By using Clip-it, you agree to this Privacy Policy.
 
 ⸻
 
-## 2. Information We Do Not Collect
+### 2. Information We Do Not Collect
 
 We do not:
 	•	Collect or store personal data such as your name, email, or location.
@@ -62,7 +62,7 @@ We do not:
 
 ⸻
 
-## 3. Third-Party Services
+### 3. Third-Party Services
 
 We use third-party SDKs to improve user experience and measure app performance:
 	•	Google Analytics for Firebase – used for anonymous usage statistics (e.g., screen views, device type).
@@ -76,21 +76,21 @@ We encourage you to review these policies to understand how these services handl
 
 ⸻
 
-## 4. Data Retention and Storage
+### 4. Data Retention and Storage
 
 Clip-it does not store or retain any user data on its servers.
 All analytics and advertising data are processed and stored by Google according to their own policies.
 
 ⸻
 
-## 5. Children’s Privacy
+### 5. Children’s Privacy
 
 Our app does not knowingly collect or store personal information from children under 13 (or under 16 in the EU).
 If you believe a child has provided personal data through one of our third-party providers, please contact Google to request removal under their privacy process.
 
 ⸻
 
-## 6. Data Protection Laws Compliance
+### 6. Data Protection Laws Compliance
 
 GDPR (European Union)
 
@@ -114,7 +114,7 @@ We follow equivalent data protection principles, ensuring no collection, retenti
 
 ⸻
 
-## 7. Your Privacy Choices
+### 7. Your Privacy Choices
 
 You can manage or opt out of personalized ads:
 	•	In your device settings under Privacy → Ads → Limit Ad Tracking (iOS).
@@ -124,47 +124,46 @@ If you disable ad personalization, you will still see ads, but they may be less 
 
 ⸻
 
-## 8. Security
+### 8. Security
 
 Since we do not handle personal data, we do not store or transmit sensitive information.
 All communication with Google’s services is encrypted (HTTPS).
 ⸻
-## 🇫🇷 Addendum for Users in France
+### 🇫🇷 Addendum for Users in France
 
-### Compliance with French Law  
+#### Compliance with French Law  
 We also comply with France's **Loi Informatique et Libertés** (French Data Protection Act) and the rules and guidance issued by the French Data Protection Authority (**CNIL**).  
 
-### Security & Encryption  
+#### Security & Encryption  
 While our app does **not store personal data**, all communication with third-party services (e.g. Google Analytics, AdMob) is transmitted over encrypted channels (TLS/HTTPS). We commit to using appropriate technical and organizational measures, including strong encryption where applicable, to safeguard user data in transit or processing.
 
 To the extent required under French law, we declare the use of encryption technology and comply with any local cryptographic regulatory requirements.
 
-### Data Breach & Notification  
+#### Data Breach & Notification  
 In the unlikely event of a breach involving personal data (even though we do not hold such data), we will follow applicable French and EU rules, including notifying the CNIL within 72 hours when required and, if applicable, affected users.
 
-### Cookies, Tracking & Consent  
+#### Cookies, Tracking & Consent  
 When offering services in France, we comply with local ePrivacy / electronic communications laws. If any identifiers, cookies, or trackers are used (e.g. for ad purposes), we ensure the French user is presented with a proper consent mechanism aligned with CNIL guidance.
 
-### Right to Lodge Complaints  
+#### Right to Lodge Complaints  
 French users may contact the CNIL (Commission Nationale de l’Informatique et des Libertés) to lodge a complaint about processing of their personal data. CNIL is the supervisory authority in France.
 
-### Enforcement & Liability  
+#### Enforcement & Liability  
 If our practices were found deficient under French or EU law, the CNIL may impose enforcement actions, corrective orders, or fines (up to €20 million or 4 % of global turnover). We commit to addressing any compliance concerns promptly.
 
 ⸻
 
-## 9. Changes to This Policy
+### 9. Changes to This Policy
 
 We may update this Privacy Policy periodically.
 Any updates will be posted within the app and/or on our website, with the revised date shown above.
 
 ⸻
 
-## 10. Contact
+### 10. Contact
 
 If you have questions about this Privacy Policy or your privacy rights, please contact:
 
 Jose Duran
 📧 luisdurancota@gmail.com
-🌐 [Website placeholder – e.g., clip-it.app]
 🇺🇸 Mercer Island, WA, USA
