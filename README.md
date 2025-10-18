@@ -1,8 +1,7 @@
 # Clip-it
+Clip-It makes copying and pasting powerful, secure, and effortless.
 - Never lose what’s important. 
 - Save, organize, and paste anything — text, links, images, and more — instantly across all your devices.
-
-Clip-It makes copying and pasting powerful, secure, and effortless.
 
 Save anything you copy — text, links, or images — and access it anytime, anywhere.
 
@@ -35,13 +34,13 @@ Create clips from within the app, the share sheet, or simply drag & drop content
 
 With Clip-It, you’ll never lose information again — everything you copy is safely stored, organized, and instantly accessible.
 
-## 📜 Privacy Policy
+
+### 📜 Privacy Policy
 
 Effective Date: October 17, 2025
 App Name: Clip-it
 Developer: Jose Duran
 
-⸻
 
 ### 1. Introduction
 
@@ -50,7 +49,6 @@ Our app does not collect, store, or share any personal data from users. We only 
 
 By using Clip-it, you agree to this Privacy Policy.
 
-⸻
 
 ### 2. Information We Do Not Collect
 
@@ -60,7 +58,6 @@ We do not:
 	•	Create or maintain user accounts.
 	•	Use or store device identifiers beyond what is automatically collected by Google’s SDKs.
 
-⸻
 
 ### 3. Third-Party Services
 
@@ -74,21 +71,17 @@ Each third-party provider has its own privacy policy:
 
 We encourage you to review these policies to understand how these services handle your data.
 
-⸻
 
 ### 4. Data Retention and Storage
 
 Clip-it does not store or retain any user data on its servers.
 All analytics and advertising data are processed and stored by Google according to their own policies.
 
-⸻
 
 ### 5. Children’s Privacy
 
 Our app does not knowingly collect or store personal information from children under 13 (or under 16 in the EU).
 If you believe a child has provided personal data through one of our third-party providers, please contact Google to request removal under their privacy process.
-
-⸻
 
 ### 6. Data Protection Laws Compliance
 
@@ -112,8 +105,6 @@ Other Regions (Asia, Canada, etc.)
 
 We follow equivalent data protection principles, ensuring no collection, retention, or sharing of user data beyond what is handled by Google’s services.
 
-⸻
-
 ### 7. Your Privacy Choices
 
 You can manage or opt out of personalized ads:
@@ -122,13 +113,11 @@ You can manage or opt out of personalized ads:
 
 If you disable ad personalization, you will still see ads, but they may be less relevant.
 
-⸻
-
 ### 8. Security
 
 Since we do not handle personal data, we do not store or transmit sensitive information.
 All communication with Google’s services is encrypted (HTTPS).
-⸻
+
 ### 🇫🇷 Addendum for Users in France
 
 #### Compliance with French Law  
@@ -151,14 +140,10 @@ French users may contact the CNIL (Commission Nationale de l’Informatique et d
 #### Enforcement & Liability  
 If our practices were found deficient under French or EU law, the CNIL may impose enforcement actions, corrective orders, or fines (up to €20 million or 4 % of global turnover). We commit to addressing any compliance concerns promptly.
 
-⸻
-
 ### 9. Changes to This Policy
 
 We may update this Privacy Policy periodically.
 Any updates will be posted within the app and/or on our website, with the revised date shown above.
-
-⸻
 
 ### 10. Contact
 
