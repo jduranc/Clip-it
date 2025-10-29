@@ -34,5 +34,5 @@ Create clips from within the app, the share sheet, or simply drag & drop content
 
 With Clip-It, you’ll never lose information again — everything you copy is safely stored, organized, and instantly accessible.
 
-### 📜 Legal
+#### 📜 Legal
 See our [Privacy Policy](https://jduranc.github.io/Clip-it/privacy-policy) for details.
