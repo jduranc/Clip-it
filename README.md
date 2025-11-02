@@ -33,6 +33,7 @@ Save and paste your favorite memes or images anywhere — from messages to socia
 Create clips from within the app, the share sheet, or simply drag & drop content on iPad — Clip-It adapts to your workflow.
 
 With Clip-It, you’ll never lose information again — everything you copy is safely stored, organized, and instantly accessible.
+Download [here](https://apps.apple.com/us/app/clipp-it/id6753967317).
 
 #### 📜 Legal
 See our [Privacy Policy](https://jduranc.github.io/Clip-it/docs/privacy-policy.html) for details.
