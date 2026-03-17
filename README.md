@@ -37,4 +37,5 @@ Download [here](https://apps.apple.com/us/app/clipp-it/id6753967317).
 
 #### 📜 Legal
 See our [Privacy Policy](https://jduranc.github.io/Clip-it/docs/privacy-policy.html) for details.
+
 See our [Terms and Conditions](https://jduranc.github.io/Clip-it/docs/terms-and-conditions.html) for details.
