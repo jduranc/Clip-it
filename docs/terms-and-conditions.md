@@ -1,6 +1,6 @@
 # Terms and Conditions for Clip-it
 
-**Last Updated: March 14, 2026**
+**Last Updated: September 26, 2026**
 
 These Terms and Conditions ("Terms") constitute a legally binding agreement between you ("User" or "you") and **Luis Duran** ("Developer," "we," "us," or "our") concerning your access to and use of the **Clip-it** mobile application (the "App").
 
@@ -38,6 +38,8 @@ Clip-it is a productivity tool designed to help users manage, organize, and sync
 ### 5. Subscriptions and Purchases (Pro Version)
 * **Billing:** If you purchase a "Pro" or "Premium" subscription, payment will be charged to your Apple ID account at the confirmation of purchase.
 * **Automatic Renewal:** Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period. You can manage and cancel your subscriptions in your App Store Account Settings.
+* **Shared Subscriptions:** Certain subscription plans may include access to premium features across participating ecosystem apps ("Shared Subscriptions"). To unlock, verify, and synchronize shared subscription privileges across multiple apps, the user must have an active Apple iCloud account enabled on the device.
+* **Family Sharing:** For subscription plans supporting Apple Family Sharing, sharing benefits among family members requires an active Apple iCloud account enabled on each participating user's device and membership in the designated Apple Family Sharing group.
 * **Refunds:** All financial transactions are handled by Apple. **We do not have the authority to issue refunds.** You must contact Apple Support directly for any refund requests.
 
 ### 6. Keyboard Extension
