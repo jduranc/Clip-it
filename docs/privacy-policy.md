@@ -1,6 +1,6 @@
 ### 📜 Privacy Policy
 
-Effective Date: October 17, 2025
+Effective Date: September 26, 2026
 App Name: Clip-it
 Developer: Jose Duran
 
@@ -17,7 +17,7 @@ By using Clip-it, you agree to this Privacy Policy.
 
 We do not:
 	•	Collect or store personal data such as your name, email, or location.
-	•	Access, read, or store any content you create within the app (e.g., your clips, tags, or notes).
+	•	Access, read, or store any content you create, save, or paste within the app (e.g., your clips, texts, links, images, files, memes, tags, templates, or notes).
 	•	Create or maintain user accounts.
 	•	Use or store device identifiers beyond what is automatically collected by Google’s SDKs.
 
@@ -35,18 +35,36 @@ Each third-party provider has its own privacy policy:
 We encourage you to review these policies to understand how these services handle your data.
 
 
-#### 4. Data Retention and Storage
+#### 4. Keyboard Extension & Share Extension Privacy
+
+* **Keyboard Extension ("Full Access"):** Clip-it includes an optional custom keyboard extension to allow quick pasting of your saved clips, templates, memes, images, and files directly into any app without switching applications.
+	* **Purpose of "Full Access":** Under iOS security policies, keyboard extensions operate in a restricted sandbox by default. Granting "Full Access" in iOS Settings is required solely to:
+		1. **Read Images, Memes & Files:** Access the shared local App Group storage to load and paste visual media, images, documents, and files.
+		2. **Generate Link Previews:** Connect to the internet exclusively to retrieve website metadata, titles, and preview thumbnails for saved URLs.
+	* **No Keystroke Logging or Tracking:** We **never** log, capture, record, store, or transmit your keystrokes, passwords, typed text, or private communications. "Full Access" is strictly utilized for reading your saved items and loading link previews; no keystroke or personal data is ever collected or sent to external servers.
+* **Share Sheet Extension:** Clip-it includes a share sheet extension allowing you to save text, links, images, memes, and files directly from other applications into Clip-it. Content transferred through the share extension is stored strictly in your local, private on-device container and synced via your personal Apple iCloud account. No shared content is routed through or visible to developer servers.
+
+
+#### 5. Subscriptions, iCloud & Family Sharing
+
+* **iCloud Synchronization:** Clip-it uses Apple’s native CloudKit technology. Your clipboard content, notes, and tags are stored and synchronized directly through your personal Apple iCloud account. We do not operate proprietary servers hosting your content, nor do we have access to your clips or iCloud credentials.
+* **Family Plan (Apple Family Sharing):** Family sharing for subscription plans is managed entirely by Apple StoreKit and native iOS Family Sharing. Each participating family member requires an active Apple iCloud account and membership in the designated iOS Family Sharing group. No personal or family member information is shared with or collected by us.
+* **Shared Subscriptions:** "Shared Subscriptions" is a feature that enables a single subscription to unlock premium functionality across participating ecosystem apps (such as iBorder and Unloop). Cross-app entitlement verification requires an active Apple iCloud account on the device and operates strictly via local iOS App Group storage and Apple StoreKit validation. No account registration, analytics tracking, or personal data transfer occurs between apps.
+
+
+#### 6. Data Retention and Storage
 
 Clip-it does not store or retain any user data on its servers.
-All analytics and advertising data are processed and stored by Google according to their own policies.
+All analytics and advertising data are processed and stored by Google according to its own policies.
 
 
-#### 5. Children’s Privacy
+#### 7. Children’s Privacy
 
 Our app does not knowingly collect or store personal information from children under 13 (or under 16 in the EU).
 If you believe a child has provided personal data through one of our third-party providers, please contact Google to request removal under their privacy process.
 
-#### 6. Data Protection Laws Compliance
+
+#### 8. Data Protection Laws Compliance
 
 GDPR (European Union)
 
@@ -68,7 +86,7 @@ Other Regions (Asia, Canada, etc.)
 
 We follow equivalent data protection principles, ensuring no collection, retention, or sharing of user data beyond what is handled by Google’s services.
 
-#### 7. Your Privacy Choices
+#### 9. Your Privacy Choices
 
 You can manage or opt out of personalized ads:
 	•	In your device settings under Privacy → Ads → Limit Ad Tracking (iOS).
@@ -76,7 +94,7 @@ You can manage or opt out of personalized ads:
 
 If you disable ad personalization, you will still see ads, but they may be less relevant.
 
-#### 8. Security
+#### 10. Security
 
 Since we do not handle personal data, we do not store or transmit sensitive information.
 All communication with Google’s services is encrypted (HTTPS).
@@ -98,20 +116,20 @@ In the unlikely event of a breach involving personal data (even though we do not
 When offering services in France, we comply with local ePrivacy / electronic communications laws. If any identifiers, cookies, or trackers are used (e.g. for ad purposes), we ensure the French user is presented with a proper consent mechanism aligned with CNIL guidance.
 
 ##### Right to Lodge Complaints  
-French users may contact the CNIL (Commission Nationale de l’Informatique et des Libertés) to lodge a complaint about processing of their personal data. CNIL is the supervisory authority in France.
+French users may contact the CNIL (Commission Nationale de l’Informatique et des Libertés) to lodge a complaint about the processing of their personal data. CNIL is the supervisory authority in France.
 
 ##### Enforcement & Liability 
 If our practices were found deficient under French or EU law, the CNIL may impose enforcement actions, corrective orders, or fines (up to €20 million or 4 % of global turnover). We commit to addressing any compliance concerns promptly.
 
-#### 9. Changes to This Policy
+#### 11. Changes to This Policy
 
 We may update this Privacy Policy periodically.
 Any updates will be posted within the app and/or on our website, with the revised date shown above.
 
-#### 10. Contact
+#### 12. Contact
 
 If you have questions about this Privacy Policy or your privacy rights, please contact:
 
 Jose Duran
-📧 luisdurancota@gmail.com
+📧  [ Email](emailto:rays-mouse01@icloud.com)
 🇺🇸 Mercer Island, WA, USA
