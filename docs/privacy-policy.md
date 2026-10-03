@@ -131,5 +131,5 @@ Any updates will be posted within the app and/or on our website, with the revise
 If you have questions about this Privacy Policy or your privacy rights, please contact:
 
 Jose Duran
-📧 [Email]([rays-mouse01@icloud.com)
+📧 [Email](mailto:rays-mouse01@icloud.com)
 🇺🇸 Mercer Island, WA, USA
